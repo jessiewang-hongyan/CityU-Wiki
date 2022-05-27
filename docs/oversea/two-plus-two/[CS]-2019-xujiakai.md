@@ -1,3 +1,8 @@
+---
+sidebar: auto
+prev: /oversea/two-plus-two/
+---
+
 # 城大哥大双学位-偏城大角度
 
 > Author: Jiakai XU

@@ -32,6 +32,10 @@ prev: /
     <img src="https://github.com/yangqu2000.png" class="avatar">
 </a>
 
+<a href="https://github.com/Alex-XJK">
+    <img src="https://github.com/Alex-XJK.png" class="avatar">
+</a>
+
 </div>
 
 - 18-TVB-WANG Shuye
